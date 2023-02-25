@@ -1,2 +1,2 @@
 # tech4dev
-Tech development
+Tech Development
